@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383863329314",
+    "project_id": "hidden-terrain-368722",
+    "storage_bucket": "hidden-terrain-368722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383863329314:android:9b560c9e0fba255b31f07b",
+        "android_client_info": {
+          "package_name": "com.example.fluttermutl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IONca9-NdfiD4twGy1OKQyeKrNQk0Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383863329314:android:34650a84c4b27b4d31f07b",
+        "android_client_info": {
+          "package_name": "com.example.practiceflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IONca9-NdfiD4twGy1OKQyeKrNQk0Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
